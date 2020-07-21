@@ -1,8 +1,8 @@
-[![npm](https://img.shields.io/npm/v/@flitz/cookies.svg)](https://www.npmjs.com/package/@flitz/cookies)
+[![npm](https://img.shields.io/npm/v/@flitz/cookies.svg)](https://www.npmjs.com/package/@flitz/cookies) [![supported flitz version](https://img.shields.io/static/v1?label=flitz&message=0.8.3%2B&color=blue)](https://github.com/flitz-js/flitz) [![last build](https://img.shields.io/github/workflow/status/flitz-js/cookies/Publish)](https://github.com/flitz-js/cookies/actions?query=workflow%3APublish)
 
 # @flitz/cookies
 
-> A cookie parser and handler middleware for [flitz](https://github.com/flitz-js/flitz).
+> A cookie middleware for [flitz](https://github.com/flitz-js/flitz).
 
 ## Install
 
