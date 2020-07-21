@@ -23,7 +23,7 @@ const cookies = require('@flitz/cookies');
 const run = async () => {
   const app = flitz();
 
-  app.get('/', { use: [ cookies() ] }, async (req, res) => {
+  app.get('/', [ cookies() ], async (req, res) => {
     res.write( JSON.stringify(req.cookies) );
     res.end();
   });
@@ -43,7 +43,7 @@ import { cookies } from '@flitz/cookies';
 const run = async () => {
   const app = flitz();
 
-  app.get('/', { use: [ cookies() ] }, async (req, res) => {
+  app.get('/', [ cookies() ], async (req, res) => {
     res.write( JSON.stringify(req.cookies) );
     res.end();
   });
