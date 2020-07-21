@@ -1,5 +1,9 @@
 # @flitz/cookies
 
+## 1.0.1
+
+* first stable version
+
 ## 0.3.0
 
 * update donation links to [open collective](https://opencollective.com/flitz) and [PayPal](https://paypal.me/MarcelKloubert)
