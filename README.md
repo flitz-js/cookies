@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/npm/v/@flitz/cookies.svg)](https://www.npmjs.com/package/@flitz/cookies) [![supported flitz version](https://img.shields.io/static/v1?label=flitz&message=0.8.3%2B&color=blue)](https://github.com/flitz-js/flitz) [![last build](https://img.shields.io/github/workflow/status/flitz-js/cookies/Publish)](https://github.com/flitz-js/cookies/actions?query=workflow%3APublish)
+[![npm](https://img.shields.io/npm/v/@flitz/cookies.svg)](https://www.npmjs.com/package/@flitz/cookies) [![supported flitz version](https://img.shields.io/static/v1?label=flitz&message=0.8.3%2B&color=blue)](https://github.com/flitz-js/flitz) [![last build](https://img.shields.io/github/workflow/status/flitz-js/cookies/Publish)](https://github.com/flitz-js/cookies/actions?query=workflow%3APublish) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/flitz-js/cookies/pulls)
 
 # @flitz/cookies
 

@@ -1,6 +1,6 @@
 {
   "name": "@flitz/cookies",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "flitz middleware for parsing cookies.",
   "private": false,
   "main": "lib/index.js",

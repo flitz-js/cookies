@@ -21,7 +21,7 @@
 import flitz from 'flitz';
 
 declare module 'flitz' {
-  interface Request {
+  export interface Request {
     /**
      * The cookies, if parsed.
      */
